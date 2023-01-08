@@ -1,4 +1,4 @@
-# VRChat Auto Toggle Creator
+# VRChat Animation Combiner
 A Unity Editor tool to automatically combine multiple Animator controllers and VRC Expresison Parameters/Menus. Practical uses are for when consolidating animations from different version of the same or similar models. The tool is currently smart enought to warn you when there are duplicate properties that may need your attention and does not to any irreversable changes. <p align="right">[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N06S00V)</p>
 
 # Download
